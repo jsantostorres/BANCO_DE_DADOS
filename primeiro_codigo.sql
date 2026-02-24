@@ -43,7 +43,7 @@ INSERT INTO ENDERECO VALUES (006, 006, 'Alemanha', 'Ulm');
 INSERT INTO ENDERECO VALUES (007, 007, 'Coreia do Sul', 'Cheongju');
 INSERT INTO ENDERECO VALUES (008, 008, 'Brasil', 'Santa Catarina');
 INSERT INTO ENDERECO VALUES (009, 009, 'Estados Unidos da América', 'Califórnia');
-INSERT INTO ENDERECO VALUES (010, 010, 'Estados Unidos da América', 'Nova Iorque');
+INSERT INTO ENDERECO VALUES (010, 010, 'Estados Unidos da América', 'Nova York');
 
 -- fetch
 SELECT * FROM ENDERECO;
